@@ -24,10 +24,12 @@ Shadowwolf, the young youtuber and a Mensa member.
 - 🐶 We have a dog named **Cozy** and she is a Maltese.
 
 ## Videos
-[RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
+- [RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
 
 ## Certificates
-[Urkunde](https://github.com/shadow-gyuvin/life/blob/909a59de3cc1e42f00d901b4a0fa3245856354e0/Urkundefu%CC%88rLandeswettbewerbMathematikBayern2023.pdf)
+- [Mathematik Landeswettbewerb Bayern 2023](assets/img/UrkundefürLandeswettbewerbMathematikBayern2023.jpeg)
+- [Mathe im Advent 2023](assets/img/Urkunde_MiA_2023_Gyuvin_An_4-6.jpeg)
+- [Mathe im Advent 2021](assets/img/Urkunde_MiA_2021_Gyuvin_An_4-6.jpeg)
 
 ## Photos
 - This is a photo of me and my friend NtanKhoa on Skyblock.
