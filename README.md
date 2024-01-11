@@ -27,9 +27,9 @@ Shadowwolf, the young youtuber and a Mensa member.
 - [RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
 
 ## Certificates
-- ![Mathematik Landeswettbewerb Bayern 2023](/assets/img/UrkundefürLandeswettbewerbMathematikBayern2023.jpeg)
-- ![Mathe im Advent 2023](/assets/img/Urkunde_MiA_2023_Gyuvin_An_4-6.jpeg)
-- ![Mathe im Advent 2021](/assets/img/Urkunde_MiA_2021_Gyuvin_An_4-6.jpeg)
+- [Mathematik Landeswettbewerb Bayern 2023](/assets/img/UrkundefürLandeswettbewerbMathematikBayern2023.jpg)
+- [Mathe im Advent 2023](/assets/img/Urkunde_MiA_2023_Gyuvin_An_4-6.jpg)
+- [Mathe im Advent 2021](/assets/img/Urkunde_MiA_2021_Gyuvin_An_4-6.jpg)
 
 ## Photos
 - This is a photo of me and my friend NtanKhoa on Skyblock.
