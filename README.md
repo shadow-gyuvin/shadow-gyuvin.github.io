@@ -7,7 +7,7 @@ Shadowwolf, the young youtuber and a Mensa member.
 
 ## Hobbies
 - Loves to play Minecraft 👾
-- Loves [Hypixel Skyblock](https://wiki.hypixel.net/Main_Page)
+- Loves [Hypixel Skyblock](https://wiki.hypixel.net/Main_Page) and Fox SMP
 - Likes reading books or listening to music
 - Talking to my friend, [NtanKhoa](https://www.youtube.com/@ntankhoa)
 - Write Novel about Minecraft [Shadowwolf](https://an-shadowwolf.blogspot.com/)
