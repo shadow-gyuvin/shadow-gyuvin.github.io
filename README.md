@@ -1,7 +1,9 @@
 # Welcome to Shadowwolf Page
 Shadowwolf, the young youtuber and a Mensa member. 
+
 ## Scan Me
-![Qr code](https://github.com/shadow-gyuvin/shadow-gyuvin.github.io/assets/154552770/d9b5a73a-a1bf-4353-a642-3133d2eac3ca)
+![test](https://github.com/favicon.ico)
+
 
 ## History
 - Born in South Korea at 2012.05.17
