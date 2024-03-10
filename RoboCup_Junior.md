@@ -6,8 +6,12 @@ The mission is, to find all the red 'victims', so that they can be saved. If the
 ## The robot
 The robot is made out of lego, so you can either use the NXT or the EV3 to build your robot. So it's your choice (mostly) for which robot to use. I had to use the NXT, even though it has some bugs, it is a good robot. But I will still advise you to use the EV3, it's just so much better.
 
-## My programm
-Of course, I didn't just use 
+# My programm
+Of course, I didn't just use any code language. I used NXC, which is C, but for the NXT. It was made by the team RoCCI, which I am in now, and I used it for the tournament. 
 
-## Picture
+## How I made mine
+I made mine with two ultrasound sensors and a light sensor. If the front sensor 
+
+
+# Pictures
 [RoboCup Junior](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
