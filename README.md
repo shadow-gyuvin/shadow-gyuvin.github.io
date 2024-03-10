@@ -23,9 +23,9 @@ Shadowwolf, the young youtuber and a Mensa member.
 - 👩🏻 My mom is Boram Kim and buys houses and rents them to other people.
 - 🐶 We have a dog named **Cozy** and she is a Maltese.
 
-## Videos
+## Activities, Videos
 - [RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
-- [RoboCup Junior 2024]()
+- [RoboCup Junior 2024](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
 
 ## Certificates
 - [Mathematik Landeswettbewerb Bayern 2023](/assets/img/UrkundefürLandeswettbewerbMathematikBayern2023.jpg)
