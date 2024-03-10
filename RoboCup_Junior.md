@@ -9,8 +9,11 @@ The robot is made out of lego, so you can either use the NXT or the EV3 to build
 # My programm
 Of course, I didn't just use any code language. I used NXC, which is C, but for the NXT. It was made by the team RoCCI, which I am in now, and I used it for the tournament. 
 
-## How I made mine
-I made mine with two ultrasound sensors and a light sensor. If the front sensor sees the wall from a certain amount, then it should turn to the left. If the 
+## How I made my programm
+I made mine with two ultrasound sensors and a light sensor. If the front Wallsensor sees the wall from a certain amount, then it should turn to the left. If the front and left Wallsensor sees the wall, then turn right. If sees Red, then stop for 5 seconds. If see Black, go backwards, then turn. Else just go forward. Probally not the best programm, but it worked and that is all that matters. My brother was mad about the last round, but that just ruined everyones mood. I think it was fine, even though we were in the eight place.
+
+## The rankings
+[Rankings](https://scoring.robocup.de/uebersicht/V%C3%B6hringen?discipline=3&interval=10&active=true&modal=false&printView=false)
 
 
 ## Pictures
