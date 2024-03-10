@@ -24,7 +24,7 @@ Shadowwolf, the young youtuber and a Mensa member.
 - 🐶 We have a dog named **Cozy** and she is a Maltese.
 
 ## Activities, Videos
-- [RoboCup Junior 2024](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
+- [RoboCup Junior 2024](./RoboCup_Junior.md) : [Picture](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
 - [RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
 
 ## Certificates
