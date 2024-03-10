@@ -17,4 +17,4 @@ I made mine with two ultrasound sensors and a light sensor. If the front sensor 
 [RoboCup Junior](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
 
 ## Certificates
-[Certificate](./img/Urkunde_für_Rescue_Maze_Entry_2024(Gyuvin_An).pdf)
+[Certificate](./img/RoboCupCertificate.pdf)
