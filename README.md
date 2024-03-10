@@ -2,7 +2,7 @@
 Shadowwolf, the young youtuber and a Mensa member. 
 
 ## Scan Me
-![test](https://github.com/favicon.ico)
+<img src="" width="200" height="200"></img>
 
 
 ## History
