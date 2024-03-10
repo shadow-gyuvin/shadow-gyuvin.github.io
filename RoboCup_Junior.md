@@ -10,4 +10,4 @@ The robot is made out of lego, so you can either use the NXT or the EV3 to build
 Of course, I didn't just use 
 
 ## Picture
-[RoboCup Junior](https://robocup.rocci.net/site/?ident=rcjv2024)
+[RoboCup Junior](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
