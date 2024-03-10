@@ -22,4 +22,4 @@ My team name is Vins.
 ![RoboCupFoto](https://github.com/shadow-gyuvin/shadow-gyuvin.github.io/assets/154552770/08cd5e16-dff8-45e9-83bc-70c96b5270a9)
 
 ## Certificates
-![Certificate](./assets/img/RoboCupCertificate2024.pdf)
+[Certificate](./assets/img/RoboCupCertificate2024.pdf)
