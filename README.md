@@ -34,6 +34,5 @@ Shadowwolf, the young youtuber and a Mensa member.
 - [Mathe im Advent 2023](/assets/img/Urkunde_MiA_2023_Gyuvin_An_4-6.jpg)
 - [Mathe im Advent 2021](/assets/img/Urkunde_MiA_2021_Gyuvin_An_4-6.jpg)
 
-## Photos
-- This is a photo of me and my friend NtanKhoa on Skyblock.
-![Gyuvin's photo](https://media.discordapp.net/attachments/1150073458651304001/1187400295798546592/image.png?ex=6596bfb3&is=65844ab3&hm=d3670d98b63780982f3fff412995cb40782d34c677e2ab83d5888b66d5edfa2d&=&format=webp&quality=lossless&width=2382&height=1340)
+
+
