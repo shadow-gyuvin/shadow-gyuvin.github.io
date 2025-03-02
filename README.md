@@ -26,7 +26,7 @@
 - [RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
 
 ## Certificates
-- [Mathematik Landeswettbewerb Bayern 2024 Runde-2](/assets/img/UrkundefürLandeswettbewerbMathematikBayern2024.jpg)
+- [Mathematik Landeswettbewerb Bayern 2024 Runde-2](</assets/img/27 Landeswettbewerb Mathematik Bayern 2024 1Runde Urkunde.pdf>)
 - [Mathematik Landeswettbewerb Bayern 2023 Runde-1](/assets/img/UrkundefürLandeswettbewerbMathematikBayern2023.jpg)
 - [Mathematik Landeswettbewerb Bayern 2025](/assets/img/MatheBRuh.jpg)
 - [Mathe im Advent 2023](/assets/img/Urkunde_MiA_2023_Gyuvin_An_4-6.jpg)
