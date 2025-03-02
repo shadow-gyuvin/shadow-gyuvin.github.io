@@ -1,5 +1,4 @@
-# Welcome to Shadowwolf Page
-Shadowwolf, the young youtuber and a Mensa member. 
+# Welcome to Gyuvin's Page
 
 
 ## History
@@ -10,8 +9,6 @@ Shadowwolf, the young youtuber and a Mensa member.
 - Loves to play Minecraft 👾
 - Loves [Hypixel Skyblock](https://wiki.hypixel.net/Main_Page) and Fox SMP
 - Likes reading books or listening to music
-- Talking to my friend, [NtanKhoa](https://www.youtube.com/@ntankhoa)
-- Write Novel about Minecraft [Shadowwolf](https://an-shadowwolf.blogspot.com/)
 
 ## Studies
 - 2016-2018: [IS Ulm (International School Ulm)](https://www.is-ulm.de/)
