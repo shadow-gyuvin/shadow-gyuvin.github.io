@@ -24,6 +24,7 @@
 ## Activities, Videos
 - [RoboCup Junior 2024](./RoboCup_Junior.md) : [Picture](https://robocup.rocci.net/images/robocup/2024/teilnehmer/DSC04224.JPG)
 - [RoboCup Junior 2023](https://www.youtube.com/shorts/g_vEH6Y_KHA)
+- [RoboCup Junior 2025](./RoboCup_Rescue_Maze.md)
 
 ## Certificates
 - [Mathematik Landeswettbewerb Bayern 2024 Runde-2](</assets/img/27 Landeswettbewerb Mathematik Bayern 2024 1Runde Urkunde.pdf>)
