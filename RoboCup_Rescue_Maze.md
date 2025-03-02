@@ -12,8 +12,7 @@ I made mine with a ultrasonic and a light sensor. If the front ultrasonic sensor
 ## My team
 My team name is Vins. 
 
-## The rankings
-![Rankings](/assets/img/Leaderboard.jpg)
+
 
 ## Certificates
 [Certificate](</assets/img/2025 RoboCup Qualifikation Siegerurkunde.png>)
